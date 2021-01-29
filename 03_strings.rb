@@ -4,5 +4,7 @@ b = 'Este es otro bonito string '
 puts a.length
 puts b.length
 #string de multiple lineas
-c = "Esto es\nun string\nde multiples lineas"
+c = "Esto es\nun string\nde multiples lineas" #Saltos de linea solo funciona con las comillas dobles
 puts c
+age = 29
+puts "mi edad es #{age}"
